@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakungabronson" alt="bakungabronson" /></a> </p>
 
-- 🌱 I’m currently learning **React, Haskell, Rust**
+- 🌱 I’m currently learning **Astro, Rust**
 
-- 📝 I regularly write articles on [https://bronson.hashnode.dev/](https://bronson.hashnode.dev/)
+- 📝 I regularly write articles on [https://blog.bakungabronosn.com/](https://blog.bakungabronson.com/)
 
 - 💬 Ask me about **Blockchain, Javascript, Python**
 
