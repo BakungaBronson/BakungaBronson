@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Astro, Rust**
 
-- 📝 I regularly write articles on [https://blog.bakungabronosn.com/](https://blog.bakungabronson.com/)
+- 📝 I regularly write articles on [https://blog.bakungabronson.com/](https://blog.bakungabronson.com/)
 
 - 💬 Ask me about **Blockchain, Javascript, Python**
 
