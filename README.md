@@ -9,11 +9,8 @@
 
 - 📝 I regularly write articles on [https://blog.bakungabronson.com/](https://blog.bakungabronson.com/)
 
-- 💬 Ask me about **Blockchain, Javascript, Python**
+- 💬 Ask me about **Blockchain, AI**
 
-- 📫 How to reach me **bakungabro@gmail.com**
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1z6wbEtV6sHZUd-Gffa9bOVvX649QXnVi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
